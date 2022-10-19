@@ -1,0 +1,22 @@
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\PreEntrega Proyecto.exe
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\PreEntrega Proyecto.deps.json
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\PreEntrega Proyecto.runtimeconfig.json
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\PreEntrega Proyecto.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\PreEntrega Proyecto.pdb
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.csproj.AssemblyReference.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.AssemblyInfoInputs.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.AssemblyInfo.cs
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.csproj.CopyComplete
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\refint\PreEntrega Proyecto.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.pdb
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\PreEntrega Proyecto.genruntimeconfig.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\PreEntrega Proyecto\PreEntrega Proyecto\obj\Debug\net6.0\ref\PreEntrega Proyecto.dll
